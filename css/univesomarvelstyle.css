@@ -1,0 +1,57 @@
+   body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            border: 1px solid #000;
+            padding: 8px;
+            text-align: center;
+        }
+
+        .titulo {
+            background-color: #1f3b53; /* Azul escuro */
+            color: white;
+            width: 100%;
+            margin: auto;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        .especial {
+            background-color: #6b5b95; /* Roxo */
+            color: white;
+        }
+
+        .entre {
+            background-color: #4147bb; /* Roxo */
+            color: white;
+            width: 100%;
+            margin: auto;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        .animacao {
+            background-color: #f5d547; /* Amarelo */
+        }
+
+        .serie {
+            background-color: #4aa3df; /* Azul claro */
+            color: white;
+        }
+
+        .filme {
+            background-color: #e74c3c; /* Vermelho */
+            color: white;
+        }
+        
+        .neutre {
+            background-color: #ffffff; /* Vermelho */
+            color: rgb(0, 0, 0);
+        }

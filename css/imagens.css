@@ -1,0 +1,10 @@
+img{
+    width: 300px;/*alterando a lagura da imagem*/
+    height: auto;/*altura da imagem*/
+    /* podemos usar o atributo "auto" tanto a altura quanto na largura quanto. assim o html e css ajustam automaticamente o tamanho da imagem */
+}
+table{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
